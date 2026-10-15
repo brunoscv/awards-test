@@ -1,0 +1,601 @@
+year;title;studios;producers;winner
+2010;Movie Title 1;MGM;Allan Carr;
+1986;Movie Title 2;New Line Cinema;Buzz Feitshans;
+2024;Movie Title 3;Paramount Pictures;Bo Derek;
+2020;Movie Title 4;Lionsgate;Michael Bay;
+1990;Movie Title 5;Universal Studios;Steve Shagan;
+2012;Movie Title 6;20th Century Fox;Buzz Feitshans;
+1992;Movie Title 7;Warner Bros.;Jerry Bruckheimer;
+2014;Movie Title 8;Warner Bros.;Tyler Perry;
+1994;Movie Title 9;Universal Studios;Tyler Perry;yes
+1999;Movie Title 10;TriStar Pictures;Jack Giarraputo;
+2024;Movie Title 11;MGM;Jack Giarraputo;
+1999;Movie Title 12;Warner Bros.;Joel Silver;
+2018;Movie Title 13;New Line Cinema;Buzz Feitshans;yes
+1992;Movie Title 14;MGM;Lorenzo di Bonaventura and Ian Bryce;
+2019;Movie Title 15;20th Century Fox;Jerry Bruckheimer;yes
+1997;Movie Title 16;MGM;Yoram Globus and Menahem Golan;
+2021;Movie Title 17;New Line Cinema;Jack Giarraputo;yes
+1990;Movie Title 18;TriStar Pictures;Jack Giarraputo;
+1982;Movie Title 19;Universal Studios;Lorenzo di Bonaventura and Ian Bryce;
+1990;Movie Title 20;Lionsgate;Jack Giarraputo;
+1993;Movie Title 21;Warner Bros.;Buzz Feitshans;
+2009;Movie Title 22;Universal Studios;Tyler Perry;
+1987;Movie Title 23;MGM;Tyler Perry;
+1995;Movie Title 24;Universal Studios;Jack Giarraputo;
+2015;Movie Title 25;MGM;Kevin Costner;
+2011;Movie Title 26;20th Century Fox;Buzz Feitshans;
+2021;Movie Title 27;MGM;Jerry Bruckheimer;
+1989;Movie Title 28;MGM;Steve Shagan;
+2012;Movie Title 29;Paramount Pictures;Kevin Costner;
+2005;Movie Title 30;Lionsgate;Irwin Winkler;
+2011;Movie Title 31;Lionsgate;Jack Giarraputo;
+1990;Movie Title 32;Universal Studios;Jack Giarraputo;yes
+1986;Movie Title 33;MGM;Buzz Feitshans;
+2008;Movie Title 34;20th Century Fox;Simon Kinberg, Matthew Vaughn and Hutch Parker;yes
+1993;Movie Title 35;Lionsgate;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2018;Movie Title 36;Universal Studios;Matthew Vaughn;
+1986;Movie Title 37;Lionsgate;Jerry Weintraub;yes
+2010;Movie Title 38;New Line Cinema;Tyler Perry;
+2019;Movie Title 39;Paramount Pictures;Bo Derek;
+1997;Movie Title 40;Paramount Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2019;Movie Title 41;Warner Bros.;Steve Shagan;
+2017;Movie Title 42;Warner Bros.;Bo Derek;
+1980;Movie Title 43;Universal Studios;Tyler Perry;
+1989;Movie Title 44;MGM;Kevin Costner;
+1985;Movie Title 45;Universal Studios;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2020;Movie Title 46;Paramount Pictures;Allan Carr;
+2007;Movie Title 47;TriStar Pictures;Jerry Weintraub;
+1985;Movie Title 48;MGM;Buzz Feitshans;
+1990;Movie Title 49;Warner Bros.;Steve Shagan;
+1998;Movie Title 50;20th Century Fox;Buzz Feitshans;
+1994;Movie Title 51;Universal Studios;Allan Carr;
+2003;Movie Title 52;20th Century Fox;Matthew Vaughn;
+2022;Movie Title 53;Lionsgate;Steve Shagan;
+2024;Movie Title 54;TriStar Pictures;Yoram Globus and Menahem Golan;
+2016;Movie Title 55;20th Century Fox;Matthew Vaughn;
+2008;Movie Title 56;Warner Bros.;Steve Shagan;
+1994;Movie Title 57;TriStar Pictures;Steve Shagan;
+1988;Movie Title 58;Universal Studios;Jerry Weintraub;
+1997;Movie Title 59;20th Century Fox;Nicolas Cage;
+2017;Movie Title 60;MGM;Jerry Bruckheimer;yes
+2010;Movie Title 61;New Line Cinema;Matthew Vaughn;
+2010;Movie Title 62;Paramount Pictures;Joel Silver;yes
+2013;Movie Title 63;Paramount Pictures;Nicolas Cage;
+1999;Movie Title 64;Lionsgate;Jerry Weintraub;
+1984;Movie Title 65;20th Century Fox;Bo Derek;yes
+2001;Movie Title 66;TriStar Pictures;Buzz Feitshans;
+2015;Movie Title 67;MGM;Jack Giarraputo;
+1986;Movie Title 68;New Line Cinema;Kevin Costner;
+1989;Movie Title 69;Universal Studios;Kevin Costner;
+1998;Movie Title 70;MGM;Steve Shagan;
+2019;Movie Title 71;TriStar Pictures;Yoram Globus and Menahem Golan;
+1997;Movie Title 72;TriStar Pictures;Buzz Feitshans;
+1996;Movie Title 73;Universal Studios;Steve Shagan;
+2013;Movie Title 74;New Line Cinema;Jerry Bruckheimer;
+1994;Movie Title 75;Universal Studios;Allan Carr;
+1986;Movie Title 76;20th Century Fox;Irwin Winkler;
+2012;Movie Title 77;Columbia Pictures;Buzz Feitshans;
+2008;Movie Title 78;Columbia Pictures;Michael Bay;
+1983;Movie Title 79;Columbia Pictures;Jerry Bruckheimer;
+2011;Movie Title 80;Paramount Pictures;Lorenzo di Bonaventura and Ian Bryce;yes
+2001;Movie Title 81;MGM;Michael Bay;yes
+1994;Movie Title 82;MGM;Matthew Vaughn;
+1992;Movie Title 83;TriStar Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1991;Movie Title 84;MGM;Yoram Globus and Menahem Golan;
+2022;Movie Title 85;Paramount Pictures;Joel Silver;
+1982;Movie Title 86;MGM;Allan Carr;
+1994;Movie Title 87;Paramount Pictures;Jerry Weintraub;
+2021;Movie Title 88;20th Century Fox;Dino De Laurentiis;
+1996;Movie Title 89;Lionsgate;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1994;Movie Title 90;Universal Studios;Kevin Costner;
+1992;Movie Title 91;Universal Studios;Adam Sandler;
+2000;Movie Title 92;Columbia Pictures;Nicolas Cage;
+1986;Movie Title 93;20th Century Fox;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1993;Movie Title 94;Paramount Pictures;Yoram Globus and Menahem Golan;
+1990;Movie Title 95;Lionsgate;Buzz Feitshans;
+1988;Movie Title 96;New Line Cinema;Adam Sandler;
+2002;Movie Title 97;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1985;Movie Title 98;Paramount Pictures;Bo Derek;yes
+2007;Movie Title 99;TriStar Pictures;Dino De Laurentiis;yes
+1984;Movie Title 100;Columbia Pictures;Matthew Vaughn;
+1999;Movie Title 101;MGM;Yoram Globus and Menahem Golan;
+2011;Movie Title 102;Universal Studios;Allan Carr;
+1984;Movie Title 103;Lionsgate;Jack Giarraputo;yes
+2012;Movie Title 104;Columbia Pictures;Tyler Perry;
+1988;Movie Title 105;MGM;Buzz Feitshans;
+2004;Movie Title 106;New Line Cinema;Irwin Winkler;
+2013;Movie Title 107;20th Century Fox;Yoram Globus and Menahem Golan;
+2003;Movie Title 108;TriStar Pictures;Irwin Winkler;
+2000;Movie Title 109;Warner Bros.;Jack Giarraputo;
+2019;Movie Title 110;New Line Cinema;Jerry Weintraub;
+2018;Movie Title 111;New Line Cinema;Steve Shagan;
+1997;Movie Title 112;Warner Bros.;Allan Carr;
+2001;Movie Title 113;Columbia Pictures;Bo Derek;yes
+1988;Movie Title 114;Warner Bros.;Kevin Costner;
+1980;Movie Title 115;Warner Bros.;Bo Derek;
+1994;Movie Title 116;20th Century Fox;Bo Derek;
+2009;Movie Title 117;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2021;Movie Title 118;Universal Studios;Jerry Weintraub;
+1981;Movie Title 119;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1982;Movie Title 120;MGM;Bo Derek;
+2005;Movie Title 121;Universal Studios;Bo Derek;
+1984;Movie Title 122;Warner Bros.;Irwin Winkler;
+2022;Movie Title 123;MGM;Jack Giarraputo;
+2014;Movie Title 124;TriStar Pictures;Tyler Perry;
+1998;Movie Title 125;Lionsgate;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1991;Movie Title 126;TriStar Pictures;Kevin Costner;
+1981;Movie Title 127;Columbia Pictures;Matthew Vaughn;
+2016;Movie Title 128;Paramount Pictures;Matthew Vaughn;
+2023;Movie Title 129;20th Century Fox;Matthew Vaughn;
+2006;Movie Title 130;Paramount Pictures;Irwin Winkler;
+2014;Movie Title 131;Paramount Pictures;Lorenzo di Bonaventura and Ian Bryce;
+2013;Movie Title 132;Paramount Pictures;Allan Carr;
+1993;Movie Title 133;Universal Studios;Michael Bay;yes
+1986;Movie Title 134;Lionsgate;Steve Shagan;
+2005;Movie Title 135;20th Century Fox;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2010;Movie Title 136;TriStar Pictures;Adam Sandler;yes
+1998;Movie Title 137;Columbia Pictures;Irwin Winkler;
+2022;Movie Title 138;Paramount Pictures;Tyler Perry;
+2024;Movie Title 139;TriStar Pictures;Dino De Laurentiis;
+1997;Movie Title 140;New Line Cinema;Allan Carr;
+2014;Movie Title 141;Lionsgate;Kevin Costner;
+1994;Movie Title 142;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1998;Movie Title 143;Paramount Pictures;Irwin Winkler;
+1997;Movie Title 144;Lionsgate;Matthew Vaughn;yes
+2008;Movie Title 145;Columbia Pictures;Joel Silver;yes
+1990;Movie Title 146;MGM;Michael Bay;
+1996;Movie Title 147;Lionsgate;Adam Sandler;
+2000;Movie Title 148;Warner Bros.;Nicolas Cage;yes
+1997;Movie Title 149;Warner Bros.;Dino De Laurentiis;
+1986;Movie Title 150;MGM;Steve Shagan;yes
+2009;Movie Title 151;MGM;Irwin Winkler;
+2002;Movie Title 152;MGM;Jack Giarraputo;
+1980;Movie Title 153;Lionsgate;Adam Sandler;
+1995;Movie Title 154;Columbia Pictures;Joel Silver;
+2003;Movie Title 155;New Line Cinema;Irwin Winkler;yes
+1985;Movie Title 156;Columbia Pictures;Dino De Laurentiis;
+1988;Movie Title 157;TriStar Pictures;Kevin Costner;
+2006;Movie Title 158;New Line Cinema;Kevin Costner;
+1999;Movie Title 159;Universal Studios;Allan Carr;
+2021;Movie Title 160;Lionsgate;Dino De Laurentiis;
+1983;Movie Title 161;New Line Cinema;Lorenzo di Bonaventura and Ian Bryce;yes
+2012;Movie Title 162;Columbia Pictures;Nicolas Cage;
+2006;Movie Title 163;Columbia Pictures;Tyler Perry;
+2002;Movie Title 164;Warner Bros.;Buzz Feitshans;
+1992;Movie Title 165;Warner Bros.;Bo Derek;
+1997;Movie Title 166;Warner Bros.;Joel Silver;
+1986;Movie Title 167;TriStar Pictures;Matthew Vaughn;
+1991;Movie Title 168;Universal Studios;Bo Derek;
+1994;Movie Title 169;Columbia Pictures;Nicolas Cage;
+1987;Movie Title 170;Paramount Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1983;Movie Title 171;TriStar Pictures;Lorenzo di Bonaventura and Ian Bryce;yes
+1984;Movie Title 172;New Line Cinema;Kevin Costner;
+2024;Movie Title 173;20th Century Fox;Kevin Costner;
+1982;Movie Title 174;20th Century Fox;Bo Derek;
+2008;Movie Title 175;MGM;Jerry Weintraub;
+2005;Movie Title 176;MGM;Bo Derek;
+2010;Movie Title 177;Paramount Pictures;Nicolas Cage;
+2008;Movie Title 178;TriStar Pictures;Irwin Winkler;
+2008;Movie Title 179;Universal Studios;Nicolas Cage;
+2023;Movie Title 180;New Line Cinema;Tyler Perry;
+1989;Movie Title 181;Paramount Pictures;Matthew Vaughn;
+2006;Movie Title 182;Columbia Pictures;Dino De Laurentiis;
+2014;Movie Title 183;Columbia Pictures;Joel Silver;
+2006;Movie Title 184;MGM;Joel Silver;
+2019;Movie Title 185;Columbia Pictures;Tyler Perry;yes
+2021;Movie Title 186;Paramount Pictures;Dino De Laurentiis;yes
+1989;Movie Title 187;Paramount Pictures;Yoram Globus and Menahem Golan;
+1985;Movie Title 188;MGM;Kevin Costner;
+2004;Movie Title 189;Columbia Pictures;Tyler Perry;yes
+1990;Movie Title 190;New Line Cinema;Dino De Laurentiis;
+2009;Movie Title 191;Paramount Pictures;Steve Shagan;
+2019;Movie Title 192;New Line Cinema;Kevin Costner;
+1994;Movie Title 193;Lionsgate;Adam Sandler;
+2020;Movie Title 194;Paramount Pictures;Tyler Perry;
+2001;Movie Title 195;Paramount Pictures;Jerry Weintraub;yes
+1997;Movie Title 196;MGM;Kevin Costner;
+1997;Movie Title 197;New Line Cinema;Matthew Vaughn;
+1999;Movie Title 198;New Line Cinema;Bo Derek;
+2014;Movie Title 199;Universal Studios;Kevin Costner;
+1982;Movie Title 200;Columbia Pictures;Matthew Vaughn;
+2007;Movie Title 201;MGM;Jerry Bruckheimer;
+1982;Movie Title 202;Warner Bros.;Buzz Feitshans;
+1997;Movie Title 203;Universal Studios;Lorenzo di Bonaventura and Ian Bryce;
+2022;Movie Title 204;Lionsgate;Nicolas Cage;
+2004;Movie Title 205;TriStar Pictures;Bo Derek;yes
+2022;Movie Title 206;Warner Bros.;Adam Sandler;
+2022;Movie Title 207;Lionsgate;Nicolas Cage;
+1993;Movie Title 208;New Line Cinema;Irwin Winkler;
+1997;Movie Title 209;New Line Cinema;Allan Carr;
+2012;Movie Title 210;Universal Studios;Michael Bay;
+2016;Movie Title 211;20th Century Fox;Dino De Laurentiis;yes
+2017;Movie Title 212;TriStar Pictures;Buzz Feitshans;
+2023;Movie Title 213;Columbia Pictures;Tyler Perry;
+1991;Movie Title 214;MGM;Steve Shagan;yes
+1986;Movie Title 215;TriStar Pictures;Bo Derek;
+2012;Movie Title 216;TriStar Pictures;Dino De Laurentiis;
+1981;Movie Title 217;MGM;Bo Derek;
+2001;Movie Title 218;Lionsgate;Allan Carr;
+2003;Movie Title 219;Warner Bros.;Michael Bay;
+2011;Movie Title 220;Universal Studios;Buzz Feitshans;yes
+2006;Movie Title 221;New Line Cinema;Jack Giarraputo;
+2013;Movie Title 222;Paramount Pictures;Nicolas Cage;
+1982;Movie Title 223;New Line Cinema;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2009;Movie Title 224;Columbia Pictures;Allan Carr;
+1988;Movie Title 225;20th Century Fox;Bo Derek;
+1988;Movie Title 226;MGM;Lorenzo di Bonaventura and Ian Bryce;yes
+2007;Movie Title 227;MGM;Jack Giarraputo;
+2006;Movie Title 228;MGM;Matthew Vaughn;
+2000;Movie Title 229;New Line Cinema;Yoram Globus and Menahem Golan;
+1988;Movie Title 230;Universal Studios;Lorenzo di Bonaventura and Ian Bryce;
+1989;Movie Title 231;Columbia Pictures;Jack Giarraputo;
+2004;Movie Title 232;Warner Bros.;Jerry Weintraub;
+1997;Movie Title 233;Warner Bros.;Jerry Bruckheimer;
+1998;Movie Title 234;Lionsgate;Allan Carr;yes
+2023;Movie Title 235;New Line Cinema;Tyler Perry;
+2003;Movie Title 236;Lionsgate;Yoram Globus and Menahem Golan;
+1992;Movie Title 237;Paramount Pictures;Irwin Winkler;
+2015;Movie Title 238;TriStar Pictures;Dino De Laurentiis;
+1989;Movie Title 239;Warner Bros.;Jack Giarraputo;
+2017;Movie Title 240;TriStar Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1993;Movie Title 241;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1996;Movie Title 242;Universal Studios;Bo Derek;
+1991;Movie Title 243;New Line Cinema;Tyler Perry;
+1990;Movie Title 244;Lionsgate;Jerry Bruckheimer;
+2017;Movie Title 245;Paramount Pictures;Buzz Feitshans;
+1987;Movie Title 246;New Line Cinema;Adam Sandler;
+2011;Movie Title 247;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;yes
+1984;Movie Title 248;TriStar Pictures;Joel Silver;
+2013;Movie Title 249;20th Century Fox;Jerry Bruckheimer;yes
+1991;Movie Title 250;Lionsgate;Kevin Costner;
+1992;Movie Title 251;Lionsgate;Jack Giarraputo;
+2007;Movie Title 252;Lionsgate;Matthew Vaughn;
+1993;Movie Title 253;20th Century Fox;Buzz Feitshans;
+2005;Movie Title 254;Universal Studios;Nicolas Cage;
+1988;Movie Title 255;Columbia Pictures;Tyler Perry;yes
+2004;Movie Title 256;Paramount Pictures;Bo Derek;
+1989;Movie Title 257;New Line Cinema;Kevin Costner;
+2024;Movie Title 258;Universal Studios;Adam Sandler;
+2004;Movie Title 259;TriStar Pictures;Steve Shagan;
+2013;Movie Title 260;TriStar Pictures;Adam Sandler;
+2005;Movie Title 261;TriStar Pictures;Dino De Laurentiis;
+2023;Movie Title 262;Warner Bros.;Jerry Weintraub;
+1987;Movie Title 263;New Line Cinema;Bo Derek;
+1991;Movie Title 264;20th Century Fox;Michael Bay;
+1990;Movie Title 265;Paramount Pictures;Jack Giarraputo;
+1998;Movie Title 266;MGM;Joel Silver;yes
+2011;Movie Title 267;MGM;Tyler Perry;
+2014;Movie Title 268;Warner Bros.;Tyler Perry;
+2001;Movie Title 269;MGM;Nicolas Cage;
+1981;Movie Title 270;MGM;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1988;Movie Title 271;TriStar Pictures;Jack Giarraputo;
+2008;Movie Title 272;MGM;Buzz Feitshans;
+2001;Movie Title 273;New Line Cinema;Bo Derek;
+2002;Movie Title 274;Lionsgate;Allan Carr;
+2017;Movie Title 275;Lionsgate;Jerry Weintraub;
+2019;Movie Title 276;Paramount Pictures;Joel Silver;
+2009;Movie Title 277;Universal Studios;Jerry Weintraub;
+2010;Movie Title 278;MGM;Dino De Laurentiis;
+2009;Movie Title 279;TriStar Pictures;Jerry Bruckheimer;
+1980;Movie Title 280;Columbia Pictures;Allan Carr;
+2020;Movie Title 281;Warner Bros.;Steve Shagan;
+2014;Movie Title 282;Warner Bros.;Allan Carr;
+1981;Movie Title 283;Lionsgate;Kevin Costner;
+2023;Movie Title 284;Lionsgate;Matthew Vaughn;yes
+2007;Movie Title 285;Columbia Pictures;Buzz Feitshans;
+1998;Movie Title 286;TriStar Pictures;Nicolas Cage;
+1998;Movie Title 287;MGM;Buzz Feitshans;
+1986;Movie Title 288;New Line Cinema;Buzz Feitshans;yes
+1998;Movie Title 289;Lionsgate;Jack Giarraputo;
+2022;Movie Title 290;MGM;Jerry Bruckheimer;yes
+2004;Movie Title 291;20th Century Fox;Matthew Vaughn;
+1996;Movie Title 292;Universal Studios;Jerry Bruckheimer;
+1997;Movie Title 293;Lionsgate;Matthew Vaughn;yes
+1991;Movie Title 294;New Line Cinema;Nicolas Cage;
+1982;Movie Title 295;Warner Bros.;Joel Silver;
+1981;Movie Title 296;New Line Cinema;Yoram Globus and Menahem Golan;yes
+1996;Movie Title 297;MGM;Jack Giarraputo;
+2006;Movie Title 298;20th Century Fox;Buzz Feitshans;
+1998;Movie Title 299;New Line Cinema;Bo Derek;
+1992;Movie Title 300;MGM;Steve Shagan;
+2015;Movie Title 301;Universal Studios;Tyler Perry;
+2016;Movie Title 302;20th Century Fox;Nicolas Cage;
+2024;Movie Title 303;Lionsgate;Yoram Globus and Menahem Golan;yes
+1991;Movie Title 304;Columbia Pictures;Buzz Feitshans;
+2006;Movie Title 305;20th Century Fox;Irwin Winkler;yes
+1988;Movie Title 306;Lionsgate;Adam Sandler;
+1999;Movie Title 307;New Line Cinema;Kevin Costner;
+1995;Movie Title 308;Lionsgate;Kevin Costner;
+2009;Movie Title 309;TriStar Pictures;Steve Shagan;
+1998;Movie Title 310;TriStar Pictures;Yoram Globus and Menahem Golan;
+2020;Movie Title 311;MGM;Joel Silver;
+2007;Movie Title 312;20th Century Fox;Nicolas Cage;yes
+2024;Movie Title 313;Universal Studios;Lorenzo di Bonaventura and Ian Bryce;
+2022;Movie Title 314;TriStar Pictures;Jerry Weintraub;
+1986;Movie Title 315;Columbia Pictures;Buzz Feitshans;
+2014;Movie Title 316;MGM;Lorenzo di Bonaventura and Ian Bryce;
+1991;Movie Title 317;Paramount Pictures;Steve Shagan;yes
+2017;Movie Title 318;Warner Bros.;Matthew Vaughn;
+1992;Movie Title 319;MGM;Irwin Winkler;
+1995;Movie Title 320;Warner Bros.;Jack Giarraputo;yes
+2000;Movie Title 321;Universal Studios;Irwin Winkler;
+2004;Movie Title 322;New Line Cinema;Adam Sandler;
+2020;Movie Title 323;New Line Cinema;Matthew Vaughn;yes
+1995;Movie Title 324;MGM;Matthew Vaughn;
+1980;Movie Title 325;New Line Cinema;Joel Silver;yes
+2002;Movie Title 326;Warner Bros.;Irwin Winkler;
+2014;Movie Title 327;Paramount Pictures;Kevin Costner;
+1985;Movie Title 328;MGM;Michael Bay;
+1983;Movie Title 329;Universal Studios;Buzz Feitshans;
+1998;Movie Title 330;TriStar Pictures;Bo Derek;
+1995;Movie Title 331;MGM;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2005;Movie Title 332;Paramount Pictures;Tyler Perry;
+1994;Movie Title 333;New Line Cinema;Dino De Laurentiis;
+1992;Movie Title 334;Columbia Pictures;Yoram Globus and Menahem Golan;
+2015;Movie Title 335;New Line Cinema;Kevin Costner;
+2010;Movie Title 336;MGM;Matthew Vaughn;
+1994;Movie Title 337;Columbia Pictures;Joel Silver;
+2007;Movie Title 338;MGM;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1984;Movie Title 339;Columbia Pictures;Steve Shagan;
+2006;Movie Title 340;Lionsgate;Bo Derek;
+1998;Movie Title 341;MGM;Steve Shagan;
+2004;Movie Title 342;Warner Bros.;Irwin Winkler;
+1984;Movie Title 343;20th Century Fox;Irwin Winkler;yes
+1998;Movie Title 344;MGM;Nicolas Cage;yes
+2011;Movie Title 345;TriStar Pictures;Buzz Feitshans;
+2002;Movie Title 346;Warner Bros.;Irwin Winkler;
+1989;Movie Title 347;Lionsgate;Michael Bay;
+1996;Movie Title 348;New Line Cinema;Jack Giarraputo;
+1995;Movie Title 349;20th Century Fox;Dino De Laurentiis;
+2018;Movie Title 350;MGM;Steve Shagan;
+2010;Movie Title 351;Columbia Pictures;Nicolas Cage;
+2024;Movie Title 352;Lionsgate;Yoram Globus and Menahem Golan;
+2011;Movie Title 353;TriStar Pictures;Bo Derek;
+1981;Movie Title 354;Columbia Pictures;Kevin Costner;
+2017;Movie Title 355;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+2018;Movie Title 356;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1988;Movie Title 357;Warner Bros.;Steve Shagan;
+2020;Movie Title 358;New Line Cinema;Matthew Vaughn;
+2001;Movie Title 359;Lionsgate;Joel Silver;yes
+2019;Movie Title 360;Lionsgate;Matthew Vaughn;
+1988;Movie Title 361;Columbia Pictures;Yoram Globus and Menahem Golan;
+1995;Movie Title 362;Universal Studios;Irwin Winkler;
+1987;Movie Title 363;MGM;Buzz Feitshans;
+2008;Movie Title 364;Columbia Pictures;Jack Giarraputo;yes
+1994;Movie Title 365;20th Century Fox;Steve Shagan;
+2021;Movie Title 366;MGM;Tyler Perry;
+2010;Movie Title 367;TriStar Pictures;Jerry Weintraub;
+2008;Movie Title 368;New Line Cinema;Jack Giarraputo;
+1999;Movie Title 369;Lionsgate;Jerry Weintraub;
+1980;Movie Title 370;Paramount Pictures;Dino De Laurentiis;
+1993;Movie Title 371;Universal Studios;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1987;Movie Title 372;Warner Bros.;Irwin Winkler;
+2015;Movie Title 373;20th Century Fox;Matthew Vaughn;
+2011;Movie Title 374;MGM;Michael Bay;yes
+1981;Movie Title 375;Universal Studios;Jerry Weintraub;
+1983;Movie Title 376;Universal Studios;Tyler Perry;
+1983;Movie Title 377;Paramount Pictures;Lorenzo di Bonaventura and Ian Bryce;
+2006;Movie Title 378;New Line Cinema;Bo Derek;
+2007;Movie Title 379;Paramount Pictures;Matthew Vaughn;
+1992;Movie Title 380;Columbia Pictures;Irwin Winkler;
+2018;Movie Title 381;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1981;Movie Title 382;MGM;Steve Shagan;
+2011;Movie Title 383;Columbia Pictures;Matthew Vaughn;
+2005;Movie Title 384;MGM;Jack Giarraputo;
+2007;Movie Title 385;Paramount Pictures;Bo Derek;
+1993;Movie Title 386;New Line Cinema;Jerry Bruckheimer;
+2004;Movie Title 387;20th Century Fox;Jerry Weintraub;
+1984;Movie Title 388;MGM;Irwin Winkler;
+2002;Movie Title 389;New Line Cinema;Lorenzo di Bonaventura and Ian Bryce;yes
+1985;Movie Title 390;TriStar Pictures;Allan Carr;
+2019;Movie Title 391;Warner Bros.;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2004;Movie Title 392;TriStar Pictures;Matthew Vaughn;
+2005;Movie Title 393;Warner Bros.;Michael Bay;
+2013;Movie Title 394;20th Century Fox;Adam Sandler;
+1997;Movie Title 395;Warner Bros.;Lorenzo di Bonaventura and Ian Bryce;
+2016;Movie Title 396;Paramount Pictures;Michael Bay;
+1994;Movie Title 397;MGM;Bo Derek;
+2019;Movie Title 398;TriStar Pictures;Yoram Globus and Menahem Golan;
+1994;Movie Title 399;TriStar Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2000;Movie Title 400;Paramount Pictures;Adam Sandler;yes
+1980;Movie Title 401;Lionsgate;Kevin Costner;yes
+2011;Movie Title 402;MGM;Dino De Laurentiis;
+2019;Movie Title 403;TriStar Pictures;Jack Giarraputo;
+2014;Movie Title 404;Lionsgate;Matthew Vaughn;
+2003;Movie Title 405;Warner Bros.;Dino De Laurentiis;
+2017;Movie Title 406;20th Century Fox;Adam Sandler;
+2020;Movie Title 407;MGM;Tyler Perry;yes
+2003;Movie Title 408;Warner Bros.;Jack Giarraputo;
+2010;Movie Title 409;Universal Studios;Michael Bay;
+1983;Movie Title 410;Paramount Pictures;Jerry Bruckheimer;
+1993;Movie Title 411;Warner Bros.;Adam Sandler;
+2014;Movie Title 412;Universal Studios;Nicolas Cage;
+2018;Movie Title 413;Columbia Pictures;Matthew Vaughn;yes
+2003;Movie Title 414;Universal Studios;Jerry Weintraub;
+2018;Movie Title 415;TriStar Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1985;Movie Title 416;TriStar Pictures;Jerry Bruckheimer;
+2001;Movie Title 417;20th Century Fox;Kevin Costner;
+2021;Movie Title 418;Warner Bros.;Jerry Bruckheimer;
+1994;Movie Title 419;MGM;Kevin Costner;yes
+1995;Movie Title 420;20th Century Fox;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1988;Movie Title 421;Universal Studios;Steve Shagan;
+1998;Movie Title 422;Lionsgate;Bo Derek;
+2022;Movie Title 423;TriStar Pictures;Irwin Winkler;
+2004;Movie Title 424;Paramount Pictures;Adam Sandler;
+1982;Movie Title 425;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1996;Movie Title 426;New Line Cinema;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2017;Movie Title 427;Universal Studios;Jerry Weintraub;
+1984;Movie Title 428;MGM;Yoram Globus and Menahem Golan;
+1982;Movie Title 429;Columbia Pictures;Jack Giarraputo;
+2002;Movie Title 430;New Line Cinema;Dino De Laurentiis;
+1983;Movie Title 431;MGM;Steve Shagan;
+1982;Movie Title 432;Warner Bros.;Allan Carr;
+1981;Movie Title 433;Warner Bros.;Joel Silver;
+2003;Movie Title 434;New Line Cinema;Kevin Costner;
+2011;Movie Title 435;TriStar Pictures;Bo Derek;yes
+2024;Movie Title 436;20th Century Fox;Tyler Perry;yes
+2006;Movie Title 437;TriStar Pictures;Jack Giarraputo;
+1999;Movie Title 438;Warner Bros.;Tyler Perry;
+2020;Movie Title 439;MGM;Matthew Vaughn;
+1980;Movie Title 440;Warner Bros.;Adam Sandler;
+2019;Movie Title 441;Columbia Pictures;Allan Carr;
+2004;Movie Title 442;Paramount Pictures;Jerry Bruckheimer;
+2006;Movie Title 443;New Line Cinema;Buzz Feitshans;
+1997;Movie Title 444;Paramount Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2002;Movie Title 445;Universal Studios;Matthew Vaughn;
+1989;Movie Title 446;TriStar Pictures;Dino De Laurentiis;
+1994;Movie Title 447;Warner Bros.;Jerry Bruckheimer;
+1991;Movie Title 448;MGM;Lorenzo di Bonaventura and Ian Bryce;
+1985;Movie Title 449;Universal Studios;Buzz Feitshans;
+2018;Movie Title 450;20th Century Fox;Tyler Perry;
+2008;Movie Title 451;Lionsgate;Jerry Bruckheimer;
+1983;Movie Title 452;20th Century Fox;Jerry Weintraub;
+2011;Movie Title 453;Lionsgate;Jerry Weintraub;
+2012;Movie Title 454;MGM;Irwin Winkler;
+2009;Movie Title 455;Paramount Pictures;Irwin Winkler;yes
+1980;Movie Title 456;MGM;Jack Giarraputo;
+2016;Movie Title 457;Paramount Pictures;Irwin Winkler;yes
+2013;Movie Title 458;TriStar Pictures;Irwin Winkler;
+2014;Movie Title 459;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1988;Movie Title 460;Paramount Pictures;Joel Silver;
+1999;Movie Title 461;Warner Bros.;Buzz Feitshans;
+1986;Movie Title 462;Warner Bros.;Yoram Globus and Menahem Golan;
+2018;Movie Title 463;MGM;Kevin Costner;
+2006;Movie Title 464;Warner Bros.;Dino De Laurentiis;
+2020;Movie Title 465;New Line Cinema;Tyler Perry;
+1989;Movie Title 466;TriStar Pictures;Bo Derek;
+1980;Movie Title 467;New Line Cinema;Bo Derek;
+1987;Movie Title 468;20th Century Fox;Nicolas Cage;
+1999;Movie Title 469;Columbia Pictures;Bo Derek;
+1992;Movie Title 470;TriStar Pictures;Kevin Costner;yes
+2003;Movie Title 471;TriStar Pictures;Nicolas Cage;
+2023;Movie Title 472;Paramount Pictures;Jerry Bruckheimer;yes
+2008;Movie Title 473;20th Century Fox;Yoram Globus and Menahem Golan;yes
+2003;Movie Title 474;Paramount Pictures;Steve Shagan;
+2018;Movie Title 475;Columbia Pictures;Kevin Costner;yes
+1980;Movie Title 476;20th Century Fox;Nicolas Cage;
+1990;Movie Title 477;MGM;Bo Derek;
+1999;Movie Title 478;Columbia Pictures;Buzz Feitshans;
+2009;Movie Title 479;Universal Studios;Matthew Vaughn;
+1990;Movie Title 480;20th Century Fox;Yoram Globus and Menahem Golan;
+1994;Movie Title 481;Lionsgate;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1996;Movie Title 482;Lionsgate;Bo Derek;
+2015;Movie Title 483;TriStar Pictures;Jack Giarraputo;
+2013;Movie Title 484;Paramount Pictures;Lorenzo di Bonaventura and Ian Bryce;
+1983;Movie Title 485;TriStar Pictures;Kevin Costner;
+2017;Movie Title 486;Universal Studios;Matthew Vaughn;
+2013;Movie Title 487;Warner Bros.;Jack Giarraputo;yes
+2022;Movie Title 488;Universal Studios;Steve Shagan;
+2006;Movie Title 489;Lionsgate;Matthew Vaughn;
+2016;Movie Title 490;MGM;Joel Silver;
+1994;Movie Title 491;Warner Bros.;Jack Giarraputo;
+2015;Movie Title 492;Warner Bros.;Jack Giarraputo;
+2009;Movie Title 493;MGM;Bo Derek;
+1999;Movie Title 494;20th Century Fox;Steve Shagan;yes
+2005;Movie Title 495;Universal Studios;Joel Silver;
+2014;Movie Title 496;MGM;Bo Derek;
+2002;Movie Title 497;New Line Cinema;Bo Derek;
+2022;Movie Title 498;MGM;Allan Carr;
+2024;Movie Title 499;Warner Bros.;Nicolas Cage;yes
+1986;Movie Title 500;Lionsgate;Allan Carr;
+1983;Movie Title 501;Lionsgate;Kevin Costner;
+1991;Movie Title 502;New Line Cinema;Nicolas Cage;
+2003;Movie Title 503;Columbia Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2001;Movie Title 504;MGM;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2020;Movie Title 505;Universal Studios;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+2023;Movie Title 506;20th Century Fox;Bo Derek;yes
+1992;Movie Title 507;20th Century Fox;Jerry Weintraub;yes
+1982;Movie Title 508;Columbia Pictures;Steve Shagan;
+2002;Movie Title 509;Warner Bros.;Kevin Costner;yes
+2012;Movie Title 510;20th Century Fox;Michael Bay;yes
+1993;Movie Title 511;Paramount Pictures;Adam Sandler;
+1997;Movie Title 512;New Line Cinema;Michael Bay;
+2010;Movie Title 513;MGM;Lorenzo di Bonaventura and Ian Bryce;yes
+1987;Movie Title 514;Universal Studios;Jerry Weintraub;
+2021;Movie Title 515;Columbia Pictures;Irwin Winkler;
+1984;Movie Title 516;Universal Studios;Irwin Winkler;
+1998;Movie Title 517;New Line Cinema;Buzz Feitshans;
+1991;Movie Title 518;Universal Studios;Lorenzo di Bonaventura and Ian Bryce;
+1996;Movie Title 519;Warner Bros.;Matthew Vaughn;
+2002;Movie Title 520;Universal Studios;Nicolas Cage;
+1984;Movie Title 521;Universal Studios;Tyler Perry;
+1987;Movie Title 522;TriStar Pictures;Jack Giarraputo;yes
+1988;Movie Title 523;Lionsgate;Jerry Weintraub;
+2015;Movie Title 524;Lionsgate;Buzz Feitshans;
+2007;Movie Title 525;TriStar Pictures;Irwin Winkler;
+2003;Movie Title 526;New Line Cinema;Matthew Vaughn;
+2002;Movie Title 527;New Line Cinema;Kevin Costner;
+2014;Movie Title 528;Lionsgate;Joel Silver;
+2007;Movie Title 529;Warner Bros.;Steve Shagan;
+1982;Movie Title 530;MGM;Joel Silver;
+2007;Movie Title 531;Lionsgate;Dino De Laurentiis;
+1981;Movie Title 532;20th Century Fox;Joel Silver;
+1989;Movie Title 533;Columbia Pictures;Adam Sandler;
+2020;Movie Title 534;MGM;Adam Sandler;
+1997;Movie Title 535;Columbia Pictures;Irwin Winkler;
+1993;Movie Title 536;Universal Studios;Steve Shagan;yes
+2023;Movie Title 537;MGM;Buzz Feitshans;
+1994;Movie Title 538;TriStar Pictures;Jerry Weintraub;
+2015;Movie Title 539;MGM;Lorenzo di Bonaventura and Ian Bryce;yes
+1991;Movie Title 540;Paramount Pictures;Michael Bay;
+1984;Movie Title 541;20th Century Fox;Michael Bay;
+2022;Movie Title 542;20th Century Fox;Irwin Winkler;
+1995;Movie Title 543;20th Century Fox;Michael Bay;
+2015;Movie Title 544;TriStar Pictures;Kevin Costner;
+2020;Movie Title 545;Universal Studios;Kevin Costner;
+1983;Movie Title 546;20th Century Fox;Adam Sandler;
+1981;Movie Title 547;Columbia Pictures;Matthew Vaughn;
+1980;Movie Title 548;Universal Studios;Buzz Feitshans;
+1999;Movie Title 549;New Line Cinema;Jerry Weintraub;
+1993;Movie Title 550;Lionsgate;Tyler Perry;
+2017;Movie Title 551;Paramount Pictures;Adam Sandler;
+2020;Movie Title 552;New Line Cinema;Matthew Vaughn;
+2020;Movie Title 553;20th Century Fox;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1989;Movie Title 554;Columbia Pictures;Jerry Bruckheimer;
+1995;Movie Title 555;20th Century Fox;Adam Sandler;
+1997;Movie Title 556;Lionsgate;Jerry Weintraub;
+2015;Movie Title 557;Paramount Pictures;Allan Carr;
+1984;Movie Title 558;Warner Bros.;Matthew Vaughn;
+2009;Movie Title 559;20th Century Fox;Allan Carr;
+2006;Movie Title 560;20th Century Fox;Jack Giarraputo;
+2011;Movie Title 561;Columbia Pictures;Steve Shagan;
+1989;Movie Title 562;New Line Cinema;Dino De Laurentiis;yes
+2022;Movie Title 563;Lionsgate;Allan Carr;
+1996;Movie Title 564;Columbia Pictures;Lorenzo di Bonaventura and Ian Bryce;
+2016;Movie Title 565;MGM;Steve Shagan;
+1992;Movie Title 566;TriStar Pictures;Kevin Costner;yes
+2024;Movie Title 567;MGM;Steve Shagan;
+2011;Movie Title 568;Paramount Pictures;Irwin Winkler;
+2018;Movie Title 569;Paramount Pictures;Jerry Bruckheimer;
+1991;Movie Title 570;Universal Studios;Bo Derek;
+1998;Movie Title 571;Warner Bros.;Irwin Winkler;
+2024;Movie Title 572;Columbia Pictures;Kevin Costner;
+2006;Movie Title 573;20th Century Fox;Irwin Winkler;
+1997;Movie Title 574;Columbia Pictures;Buzz Feitshans;yes
+1989;Movie Title 575;Lionsgate;Joel Silver;
+2018;Movie Title 576;New Line Cinema;Lorenzo di Bonaventura and Ian Bryce;
+1982;Movie Title 577;Paramount Pictures;Allan Carr;
+2023;Movie Title 578;MGM;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1992;Movie Title 579;20th Century Fox;Jerry Weintraub;
+1988;Movie Title 580;Columbia Pictures;Adam Sandler;
+2004;Movie Title 581;Lionsgate;Buzz Feitshans;
+2021;Movie Title 582;New Line Cinema;Kevin Costner;
+1980;Movie Title 583;20th Century Fox;Steve Shagan;
+1993;Movie Title 584;Paramount Pictures;Jack Giarraputo;
+2022;Movie Title 585;Columbia Pictures;Irwin Winkler;
+2007;Movie Title 586;New Line Cinema;Steve Shagan;
+2016;Movie Title 587;Universal Studios;Joel Silver;
+2018;Movie Title 588;Universal Studios;Allan Carr;yes
+1988;Movie Title 589;Paramount Pictures;Irwin Winkler;
+1981;Movie Title 590;Universal Studios;Kevin Costner;
+2004;Movie Title 591;Columbia Pictures;Allan Carr;
+2007;Movie Title 592;Lionsgate;Michael Bay;
+2001;Movie Title 593;Paramount Pictures;Dino De Laurentiis;
+2013;Movie Title 594;TriStar Pictures;Michael Bay;
+2023;Movie Title 595;Universal Studios;Jack Giarraputo;
+2016;Movie Title 596;Paramount Pictures;Simon Kinberg, Matthew Vaughn and Hutch Parker;
+1986;Movie Title 597;Lionsgate;Kevin Costner;
+1983;Movie Title 598;Warner Bros.;Adam Sandler;
+1990;Movie Title 599;New Line Cinema;Steve Shagan;
+1998;Movie Title 600;Lionsgate;Simon Kinberg, Matthew Vaughn and Hutch Parker;
