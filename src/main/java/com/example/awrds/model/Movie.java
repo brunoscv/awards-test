@@ -6,6 +6,8 @@ import jakarta.persistence.*;
 @Table(name = "awards")
 public class Movie {
 
+    //habilitar o show sql pra ver o database do identity
+    //pra ver como ficaria o create dos tabelas
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

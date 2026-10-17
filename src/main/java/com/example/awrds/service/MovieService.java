@@ -22,11 +22,17 @@ public class MovieService {
         this.mapper = movieMapper;
     }
 
+   //Tratar Dto como Dto
+    //mlehorar nomes dos metodos
+    //proteced serve pra ficar visivel dentro do mesmo "andar" ou seja
+    //ta dentro da mesma pasta nsse caso service.
+    //pra fora eh private
     public List<MovieResponse> getAll() {
         List<Movie> winners = repository.findByWinnerTrueOrderByYearAsc();
         return mapper.toResponseList(winners);
     }
 
+    //olhar os privates
     public List<Movie> prepareMovies(List<MovieResponse> movies) {
         List<Movie> entities = new ArrayList<>();
 
@@ -50,8 +56,9 @@ public class MovieService {
         return  entities;
     }
 
-    public List<String> parseProducers(String producers) {
+    private List<String> parseProducers(String producers) {
         if (producers == null || producers.isBlank()) {
+            //Collections.emptyList() eh mais interessante de new ArrayList<>();
             return Collections.emptyList();
         }
 
@@ -74,6 +81,8 @@ public class MovieService {
 
     public Map<String, List<Integer>> producerYearsMap(List<MovieResponse> movies) {
 
+        //Hash Set aqui nos qyeas para nao permitir os caras repetidos.
+        //linked hash set garante a ordem dos elemetnos
         Map<String, List<Integer>> winsByProducer = new HashMap<>();
 
         for(MovieResponse movie: movies) {
@@ -101,23 +110,31 @@ public class MovieService {
     }
 
     public ResultResponse processIntervals(Map<String, List<Integer>> producerYearsMap) {
+        //olhar isEmpty ou isBlank sao redundantes
         if (producerYearsMap == null || producerYearsMap.isEmpty()) {
+            //estudar sobre um construtor vazio aqui.
             return new ResultResponse(Collections.emptyList(), Collections.emptyList());
         }
 
+        //Thread-safe
         Queue<IntervalResponse> all = new ConcurrentLinkedQueue<>();
 
+        //entry, entrySet
         producerYearsMap.entrySet().parallelStream().forEach(entry -> {
             String producer = entry.getKey();
+            //Olhar o LinkedList que isso faz com que não precise o collections sort
+            //Set Hashset nao permite addos iguais.
             List<Integer> years = entry.getValue();
+            Collections.sort(years);
 
-            if (years != null && years.size() >= 2) {
-                List<Integer> sortedYears = new ArrayList<>(years);
-                Collections.sort(sortedYears);
-
-                for (int i = 0; i < sortedYears.size() - 1; i++) {
-                    int prev = sortedYears.get(i);
-                    int next = sortedYears.get(i + 1);
+            //streams()
+            //tentar fazer com streams years.stream.reduce()
+            //estudar
+            //ja quero um reduce que traz o min e o max
+            if (years.size() >= 2) {
+                for (int i = 0; i < years.size() - 1; i++) {
+                    int prev = years.get(i);
+                    int next = years.get(i + 1);
                     int interval = next - prev;
 
                     all.add(new IntervalResponse(producer, interval, prev, next));

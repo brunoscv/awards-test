@@ -9,6 +9,9 @@ import java.util.List;
 @Component
 public class MovieMapper {
 
+
+    //modelMapper -> faz  mesma coisa, lib do java
+    //mapStruct -> olhar tbm
     public MovieResponse toResponse(Movie movie) {
         if(movie == null) {
             return null;

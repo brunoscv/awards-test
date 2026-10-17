@@ -5,6 +5,7 @@ import com.example.awrds.model.Movie;
 import com.example.awrds.repository.MovieRepository;
 import com.example.awrds.service.DataService;
 import com.example.awrds.service.MovieService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -26,7 +27,16 @@ public class DataInitializer implements CommandLineRunner {
 
     public void run(String ...args) throws IOException {
         List<MovieResponse> movies = dataService.readCsv("01_with_errors.csv");
+
         List<Movie> entities = service.prepareMovies(movies);
+
+        //quando trabalha com essa arquitetura isolamento de camadas.
+        //transferir toda a responsabilidade para o service
+        //o intilizser nao deveria saber o que é repository
+        //entao tirar tudo daqui isso adaqui
+        //tirar o repository daqui;
+
+        //List<Movie> = entites = service.saveMovies();
 
         repository.saveAll(entities);
     }
